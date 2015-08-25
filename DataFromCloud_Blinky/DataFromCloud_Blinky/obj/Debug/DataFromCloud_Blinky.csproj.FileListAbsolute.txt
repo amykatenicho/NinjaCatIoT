@@ -1,0 +1,9 @@
+c:\users\amynic\documents\visual studio 2015\Projects\DataFromCloud_Blinky\DataFromCloud_Blinky\bin\Debug\DataFromCloud_Blinky.exe.config
+c:\users\amynic\documents\visual studio 2015\Projects\DataFromCloud_Blinky\DataFromCloud_Blinky\bin\Debug\DataFromCloud_Blinky.exe
+c:\users\amynic\documents\visual studio 2015\Projects\DataFromCloud_Blinky\DataFromCloud_Blinky\bin\Debug\DataFromCloud_Blinky.pdb
+c:\users\amynic\documents\visual studio 2015\Projects\DataFromCloud_Blinky\DataFromCloud_Blinky\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\amynic\documents\visual studio 2015\Projects\DataFromCloud_Blinky\DataFromCloud_Blinky\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\amynic\documents\visual studio 2015\Projects\DataFromCloud_Blinky\DataFromCloud_Blinky\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\amynic\documents\visual studio 2015\Projects\DataFromCloud_Blinky\DataFromCloud_Blinky\obj\Debug\DataFromCloud_Blinky.csprojResolveAssemblyReference.cache
+c:\users\amynic\documents\visual studio 2015\Projects\DataFromCloud_Blinky\DataFromCloud_Blinky\obj\Debug\DataFromCloud_Blinky.exe
+c:\users\amynic\documents\visual studio 2015\Projects\DataFromCloud_Blinky\DataFromCloud_Blinky\obj\Debug\DataFromCloud_Blinky.pdb
