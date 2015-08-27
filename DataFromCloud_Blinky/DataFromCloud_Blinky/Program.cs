@@ -11,8 +11,8 @@ namespace DataFromCloud_Blinky
     {
         static void Main(string[] args)
         {
-            string ehname = "blinky";
-            string connection = "Endpoint=sb://eventhubholexample-ns.servicebus.windows.net/;SharedAccessKeyName=sender;SharedAccessKey=PWUCSSJtkub6E205fZLQpti8xdVF5o4jNgdy/YkhpFk=;TransportType=Amqp";
+            string ehname = "<eventhubname>";
+            string connection = "<eventhubconnectionstring>,TransportType=Amqp";
             MessagingFactory factory = MessagingFactory.CreateFromConnectionString(connection);
             EventHubClient ehub = factory.CreateEventHubClient(ehname);
             EventHubConsumerGroup group = ehub.GetDefaultConsumerGroup();

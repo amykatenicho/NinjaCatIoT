@@ -7,3 +7,6 @@ c:\users\amynic\documents\visual studio 2015\Projects\DataFromCloud_Blinky\DataF
 c:\users\amynic\documents\visual studio 2015\Projects\DataFromCloud_Blinky\DataFromCloud_Blinky\obj\Debug\DataFromCloud_Blinky.csprojResolveAssemblyReference.cache
 c:\users\amynic\documents\visual studio 2015\Projects\DataFromCloud_Blinky\DataFromCloud_Blinky\obj\Debug\DataFromCloud_Blinky.exe
 c:\users\amynic\documents\visual studio 2015\Projects\DataFromCloud_Blinky\DataFromCloud_Blinky\obj\Debug\DataFromCloud_Blinky.pdb
+C:\Users\amynic\Documents\GitHub\NinjaCatIoT\DataFromCloud_Blinky\DataFromCloud_Blinky\bin\Debug\DataFromCloud_Blinky.exe.config
+C:\Users\amynic\Documents\GitHub\NinjaCatIoT\DataFromCloud_Blinky\DataFromCloud_Blinky\obj\Debug\DataFromCloud_Blinky.exe
+C:\Users\amynic\Documents\GitHub\NinjaCatIoT\DataFromCloud_Blinky\DataFromCloud_Blinky\obj\Debug\DataFromCloud_Blinky.pdb
