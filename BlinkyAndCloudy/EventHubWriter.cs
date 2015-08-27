@@ -63,9 +63,9 @@
     Lazy<Address> address;
     Lazy<SenderLink> senderLink;
 
-    static readonly string AmqpAddressFormatString = "amqps://{0}:{1}@eventhubholexample-ns.servicebus.windows.net";
-    static readonly string EventHubSasKey = "PWUCSSJtkub6E205fZLQpti8xdVF5o4jNgdy/YkhpFk=";
-    static readonly string EventHubPolicyName = "sender";
+    static readonly string AmqpAddressFormatString = "amqps://{0}:{1}@<eventhubnamespace>.servicebus.windows.net";
+    static readonly string EventHubSasKey = "<connection SAS key>";
+    static readonly string EventHubPolicyName = "<policy name>";
     static readonly string PartitionKey = "0";
     string eventHubName;
   }

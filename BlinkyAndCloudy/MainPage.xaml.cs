@@ -32,7 +32,7 @@ namespace Blinky
         public MainPage()
         {
             InitializeComponent();
-            writer = new EventHubWriter("blinky");
+            writer = new EventHubWriter("<eventhubname>");
             
             timer = new DispatcherTimer();
             timer.Interval = TimeSpan.FromMilliseconds(2000);
